@@ -237,5 +237,15 @@ When guild master went idle the following events take place:
 - Guild members who are not in a mission will have social interaction with eachother
 - Guild members may return from missions.
 
+--------------
 
+# Ad site manager
 
+Basically the same idea as websites like Uber, Yummy but for small businesses that want to start but want to be found in more ways than ust using social media or doing their own website
+  
+#Main site/Index
+Similar as Amazon will show a variety of products and announcements from multiple groups and you can click to get to their section to see what they have available for the customer including location and contact
+  
+#Manager
+ It'll change depending on the role, for the people wanting to promote their business, they'll have the possibility to customize the look of their business page
+  
